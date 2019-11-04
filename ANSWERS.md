@@ -14,7 +14,8 @@
 #I redirected to a trainer path because I needed to go back to the trainer, but I had to specify which trainer I needed to go to so I went back to the current trainer using the current_trainer parameter.
 
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
+#in our validations, i put a message for when there is an empty parameter and I assume this reads that message
 
 # Give us feedback on the project and decal below!
-
+#gud 10/10
 # Extra credit: Link your Heroku deployed app
